@@ -1,0 +1,11 @@
+tensorflow
+keras
+ultralytics
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+jupyter
+ipykernel
